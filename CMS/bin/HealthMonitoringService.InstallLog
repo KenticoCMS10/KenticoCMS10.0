@@ -1,0 +1,15 @@
+﻿Installing assembly 'C:\inetpub\wwwroot\Kentico10_Hotfix\CMS\bin\HealthMonitoringService.exe'.
+Affected parameters are:
+   assemblypath = C:\inetpub\wwwroot\Kentico10_Hotfix\CMS\bin\HealthMonitoringService.exe
+   logtoconsole = true
+   logfile = C:\inetpub\wwwroot\Kentico10_Hotfix\CMS\bin\HealthMonitoringService.InstallLog
+   webpath = C:\inetpub\wwwroot\Kentico10_Hotfix\CMS
+Installing service KenticoCMSHealthMonitor(Default Web Site_Kentico10_Hotfix)...
+Service KenticoCMSHealthMonitor(Default Web Site_Kentico10_Hotfix) has been successfully installed.
+Creating EventLog source KenticoCMSHealthMonitor(Default Web Site_Kentico10_Hotfix) in log Application...
+Committing assembly 'C:\inetpub\wwwroot\Kentico10_Hotfix\CMS\bin\HealthMonitoringService.exe'.
+Affected parameters are:
+   assemblypath = C:\inetpub\wwwroot\Kentico10_Hotfix\CMS\bin\HealthMonitoringService.exe
+   logtoconsole = true
+   logfile = C:\inetpub\wwwroot\Kentico10_Hotfix\CMS\bin\HealthMonitoringService.InstallLog
+   webpath = C:\inetpub\wwwroot\Kentico10_Hotfix\CMS
